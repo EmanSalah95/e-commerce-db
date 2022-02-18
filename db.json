@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone x",
+      "price": 13500,
+      "quantity": 50,
+      "categoryId": 1,
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-95593/Apple-iPhone-13-Pro-Max-featured-image-packshot-review.jpg"
+    },
+    {
+      "id": 2,
+      "name": "mobile",
+      "price": 2000,
+      "quantity": 20,
+      "categoryId": 1,
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-95593/Apple-iPhone-13-Pro-Max-featured-image-packshot-review.jpg"
+    },
+    {
+      "name": "lenovo mobile",
+      "price": 6000,
+      "quantity": 10,
+      "categoryId": 1,
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-95593/Apple-iPhone-13-Pro-Max-featured-image-packshot-review.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "ipad pro",
+      "price": 6000,
+      "quantity": 10,
+      "categoryId": 2,
+      "image": "https://m.media-amazon.com/images/I/81sxRBhe2sS._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ipad max",
+      "price": 7000,
+      "quantity": 10,
+      "categoryId": 2,
+      "image": "https://m.media-amazon.com/images/I/81sxRBhe2sS._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "name": "samsung tv",
+      "price": 7900,
+      "quantity": 10,
+      "categoryId": 3,
+      "image": "https://m.media-amazon.com/images/I/41iBRYIQ6YL._AC_.jpg",
+      "id": 6
+    },
+    {
+      "name": "toshipa smart",
+      "price": 7500,
+      "quantity": 10,
+      "categoryId": 3,
+      "image": "https://m.media-amazon.com/images/I/41iBRYIQ6YL._AC_.jpg",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "mobile"
+    },
+    {
+      "id": 2,
+      "name": "ipad"
+    },
+    {
+      "id": 3,
+      "name": "tv"
+    }
+  ],
+  "users": [
+    {
+      "name": "Eman",
+      "id": "1",
+      "email": "eman@a.com",
+      "password": "1234",
+      "mobile": [
+        "123"
+      ],
+      "address": {
+        "city": "Giza",
+        "street": "7",
+        "postalCode": "123"
+      }
+    }
+  ]
+}
